@@ -6,7 +6,7 @@ This repository is used to report Koding Lab defects. When doing so, you are enc
 # Scenario
 - Importing the random library does not work
 
-# Reproducable Steps
+# Reproducible Steps
 - Visit https://guc.kodinglab.com
 - Log in and select course
 - Select Code Editor
