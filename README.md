@@ -1,6 +1,6 @@
 ![](http://www.thecomputeradvisor.net/gallery/how-to-fix-software-bugs/how_to_fix_software_bugs.jpg) ![](https://guc.kodinglab.com/images/KLedit.png) 
 
-This repoistory is used to report Koding Lab defects. When doing so, you are encouraged to adhere to the following format:
+This repository is used to report Koding Lab defects. When doing so, you are encouraged to adhere to the following format:
 
 
 # Scenario
